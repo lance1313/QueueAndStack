@@ -18,7 +18,7 @@ public class DataController
 	
 	private void useQueue()
 	{
-		customerQueue = new Queue<Customer>;
+		customerQueue = new LinkedList<Customer>();
 	}
 
 }

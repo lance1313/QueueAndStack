@@ -41,21 +41,21 @@ public class Dish
 		return color;
 	}
 	
-	public setDish()
-	{
-		
-	}
-	
-	public int setRadius()
-	{
-		
-	}
-	
-	public Color setColor()
-	{
-		
-		
-	}
+//	public setDish()
+//	{
+//		
+//	}
+//	
+//	public int setRadius()
+//	{
+//		
+//	}
+//	
+//	public Color setColor()
+//	{
+//		
+//		
+//	}
 	
 	
 	
